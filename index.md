@@ -2,5 +2,4 @@
 ## This is a slightly smaller boi header
 ###### Smolest boi
 
-
-Short, meaningful commit message 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
